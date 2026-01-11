@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Logistics Planner
+# BlackRoad Logistics Planner
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Supply chain and logistics optimization with route planning and inventory management.
 
-## 🚀 Quick Start
+## Features
+- **Route Optimization** - Multi-stop route planning
+- **Inventory Tracking** - Real-time stock levels
+- **Demand Forecasting** - AI-powered predictions
+- **Fleet Management** - Vehicle tracking and scheduling
+- **Warehouse** - Pick, pack, ship automation
+- **Analytics** - Cost and efficiency metrics
 
-```bash
-./blackroad-logistics-planner.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
